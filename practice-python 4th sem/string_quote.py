@@ -1,0 +1,10 @@
+#types of taking string
+print("jk_lee jong suk")
+print('jk_lee jong suk')
+print('''jk_lee jong suk''')
+print("'jk_lee jong suk'")
+print("'''jk_lee jong suk'''")
+print('"jk_lee jong suk"')
+print(''''jk_lee jong suk''')
+print('''"jk_lee jong suk"''')
+print(''' 'jk_lee jong suk' ''')
