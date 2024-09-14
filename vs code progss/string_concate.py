@@ -1,0 +1,10 @@
+#string concatenation double,single,tripple quote
+print('hello')
+print("hello")
+print('''hello''')
+print('"hello"')
+print(''''hello''')  
+print("'hello'")
+print("'''hello'''")
+print(''' 'hello' ''')
+print(''' "hello" ''')
